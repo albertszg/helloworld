@@ -1,2 +1,3 @@
 # helloworld
-just another reposity
+My first reposity
+From Xi'an Jiao Tong University
